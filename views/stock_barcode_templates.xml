@@ -4,8 +4,8 @@
 
        <template id="assets_backend" name="stock_barcode assets" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
-                <link rel="stylesheet" type="text/scss" href="/stock_barcode/static/src/scss/stock_barcode.scss"/>
-                <link rel="stylesheet" type="text/scss" href="/stock_barcode/static/src/scss/client_action.scss"/>
+                <link rel="stylesheet" type="text/scss" href="/mvsa_barcode/static/src/scss/stock_barcode.scss"/>
+                <link rel="stylesheet" type="text/scss" href="/mvsa_barcode/static/src/scss/client_action.scss"/>
             </xpath>
         </template>
 
