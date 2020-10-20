@@ -13,7 +13,7 @@
     'data': [
         #    'views/import.xml',
         #    'views/pos_order.xml',
-        'views/stock_barcode_templates.xml',
+        # 'views/stock_barcode_templates.xml',
     ],
     'qweb': ['static/src/xml/mvsa_qweb_templates.xml'],
     'images': ['static/description/banner.png'],
